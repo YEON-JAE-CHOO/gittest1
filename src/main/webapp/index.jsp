@@ -16,12 +16,10 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 커밋 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
-<<<<<<< HEAD
           <LI>fast-forward 실습.</LI>
           <LI>11/30일11:17분</LI>
-=======
           <LI>11/30 11:21분</LI>
->>>>>>> YEON-JAE-CHOO
+          <LI>Conflict 충돌 해결.</LI> 
       </OL>
   </DIV> 
 </body>
