@@ -17,6 +17,7 @@
           <LI>첫번째 변경 후 커밋 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
           <LI>fast-forward 실습.</LI>
+          <LI>11/30일11:17분</LI>
       </OL>
   </DIV> 
 </body>
