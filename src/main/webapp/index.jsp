@@ -11,15 +11,16 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
-	<DIV style="margin: 50px;">
-		<H1>깃 테스트</H1>
-		<OL>
-			<LI>첫번째 변경 진행함.</LI>
-			<LI>첫번째 변경 후 커밋 안함.</LI>
-			<LI>두번째 변경 진행함.</LI>
-			<LI>김영빈 실습1</LI>
-			<LI>김영빈 연습 -> 로컬에서 진행 -> 브랜치로 병합 -> 푸쉬 -> main</LI>
-		</OL>
-	</DIV>
+  <DIV style="margin: 50px;">
+      <H1>깃 테스트</H1>
+      <OL>
+          <LI>첫번째 변경 진행함.</LI>
+          <LI>첫번째 변경 후 커밋 안함.</LI>
+          <LI>두번째 변경 진행함.</LI>
+          <LI>joo 실습 1</LI>
+           <LI>김영빈 실습1</LI>
+            <LI>김영빈 실습2 -> 17:06</LI>
+      </OL>
+  </DIV> 
 </body>
 </html>
