@@ -11,14 +11,16 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
-  <DIV style="margin: 50px;">
-      <H1>깃 테스트</H1>
-      <OL>
-          <LI>PL 수정함</LI>
-          <LI>DA 두 번째 수정</LI>
-          <LI>DS 수정</LI>
-          <LI>DA 세 번째 수정</LI>
-      </OL>
-  </DIV> 
+	<DIV style="margin: 50px;">
+		<H1>깃 테스트</H1>
+		<OL>
+			<LI>PL 수정함</LI>
+			<LI>DA 두 번째 수정</LI>
+			<LI>DS 수정</LI>
+			<LI>DA 세 번째 수정</LI>
+			<LI>12월1일 수정</LI>
+			<LI>12월1일 충돌 해결</LI>
+		</OL>
+	</DIV>
 </body>
 </html>
