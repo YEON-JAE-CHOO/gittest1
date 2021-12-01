@@ -14,8 +14,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>PL수정</LI>
-
+          <LI>PL 수정함</LI>
       </OL>
   </DIV> 
 </body>
